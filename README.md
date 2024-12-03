@@ -52,16 +52,17 @@ This project implements an **Electricity Billing System (EBS)** using **Java** a
 ## Screenshots
 
 ### Main Menu:
-![Main Menu Screenshot](screenshots/main_menu.png)
+![Main Menu Screenshot](imgs/0.png)
 
 ### Register and Calculate Bill:
-![Register and Calculate Screenshot](screenshots/register_and_calculate.png)
+![Register and Calculate Screenshot](imgs/1.png)
 
 ### Payment History:
-![Payment History Screenshot](screenshots/payment_history.png)
+![Payment History Screenshot](imgs/4.png)
+![Payment History Result Screenshot](imgs/5.png)
 
-### Update Rates:
-![Update Rates Screenshot](screenshots/update_rates.png)
+### Update Rates and Results:
+![Update Rates Screenshot](imgs/2.png)
 
 > Note: Screenshots are optional; feel free to add them if you have them.
 
